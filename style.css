@@ -34,7 +34,7 @@ h1{
 
 /*main section*/
 .main{
-    padding: 0px 20px;
+    padding: 20px 20px;
     margin-bottom: 20px;
 }
 .main-text p{
@@ -66,7 +66,7 @@ h2{
 
 /*footer*/
 .footer{
-    margin: 0 auto;
+    padding:20px 0;
     text-align: center;
     background-color: #bb96cf;
 }
@@ -76,12 +76,13 @@ h2{
 
 }
 .footer-text{
-    font-size: 16px;
+    font-size: 25px;
     font-weight: 900;
     margin-bottom: 10px;
+    text-align: center;
 }
 .footer-prompt{
-    font-size: 15px;
+    font-size: 20px;
     margin-bottom: 10px;
     font-weight: 600;
 }
