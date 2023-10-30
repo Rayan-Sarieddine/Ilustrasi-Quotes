@@ -34,6 +34,7 @@ h1{
 /*main section*/
 .main{
     padding: 0px 20px;
+    margin-bottom: 20px;
 }
 .main-text p{
     padding-top: 20px;
@@ -53,7 +54,28 @@ h2{
     margin-bottom: 20px;
 }
 .clearfix::after {
-    content: "";
+    content:"";
     display: table;
     clear: both;
+}
+
+/*footer*/
+.footer{
+    margin: 0 auto;
+    text-align: center;
+    background-color: #bb96cf;
+}
+.insta-logo{
+    height: 20px;
+    width: 20px;
+
+}
+.footer-text{
+    font-size: 16px;
+    font-weight: 900;
+    margin-bottom: 10px;
+}
+.footer-prompt{
+    font-size: 15px;
+    margin-bottom: 10px;
 }
