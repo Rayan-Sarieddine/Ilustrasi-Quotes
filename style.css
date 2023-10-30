@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    font-size: 50px;
+    letter-spacing: 9px;
+}
+.logo{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin:0 auto;
+}
+.heading{
+    background-color: #bb96cf;
+    padding: 50px 0;
+}
+.heading-items {
+    margin: 0 auto;
+    text-align: center;
+}
+.caption{
+    font-size: 19px;
+    letter-spacing: 12px;
+    margin-top: 20px;
+}
