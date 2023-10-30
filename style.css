@@ -20,6 +20,7 @@ h1{
 .heading{
     background-color: #bb96cf;
     padding: 50px 0;
+    width: 100%;
 }
 .heading-items {
     margin: 0 auto;
@@ -39,14 +40,14 @@ h1{
 .main-text p{
     padding-top: 20px;
     padding-right: 10px;
-    width: 60%;
+    width: 45%;
     float: left;
     font-size: 20px;
     line-height: 1.5;
 }
 
 .main-img {
-    width: 40%;
+    width: 30%;
     float: left;
     text-align: center; 
 }
@@ -69,7 +70,7 @@ h2{
     text-align: center;
     background-color: #bb96cf;
 }
-.insta-logo{
+.social-logo{
     height: 20px;
     width: 20px;
 
@@ -83,4 +84,17 @@ h2{
     font-size: 15px;
     margin-bottom: 10px;
     font-weight: 600;
+}
+
+.social {
+    text-align: center;
+}
+
+.social ul {
+    list-style: none;
+}
+
+.social ul li {
+    display: inline-block;
+    margin-left: 20px;
 }
