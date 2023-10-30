@@ -37,7 +37,9 @@ h1{
 /*main section*/
 .main{
     padding: 20px 20px;
-    margin-bottom: 20px;
+    background-image: linear-gradient(rgba(146, 164, 193, 0.615),rgba(146, 164, 193, 0.615)),url(Assets/background2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .main-text p{
     padding-top: 20px;
@@ -70,7 +72,9 @@ h2{
 .footer{
     padding:20px 0;
     text-align: center;
-    background-color: #bb96cf;
+    background-image: linear-gradient(rgba(187, 150, 207, 0.637),rgba(187, 150, 207, 0.637)),url(Assets/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .social-logo{
     height: 20px;
