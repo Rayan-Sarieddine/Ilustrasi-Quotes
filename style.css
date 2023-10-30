@@ -38,6 +38,7 @@ h1{
 }
 .main-text p{
     padding-top: 20px;
+    padding-right: 10px;
     width: 60%;
     float: left;
     font-size: 20px;
@@ -48,6 +49,9 @@ h1{
     width: 40%;
     float: left;
     text-align: center; 
+}
+.main-img img{
+    border-radius: 10px;
 }
 h2{
     font-size: 35px;
@@ -78,4 +82,5 @@ h2{
 .footer-prompt{
     font-size: 15px;
     margin-bottom: 10px;
+    font-weight: 600;
 }
