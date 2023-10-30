@@ -3,10 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    background-color: #92a4c1;
+}
 h1{
     font-size: 50px;
     letter-spacing: 9px;
 }
+/* heading section*/
 .logo{
     height: 200px;
     width: 200px;
@@ -25,4 +29,26 @@ h1{
     font-size: 19px;
     letter-spacing: 12px;
     margin-top: 20px;
+}
+
+/*main section*/
+.main{
+    padding: 0px 20px;
+}
+.main-text p{
+    padding-top: 20px;
+    width: 60%;
+    float: left;
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+.main-img {
+    width: 40%;
+    float: left;
+    text-align: center; 
+}
+h2{
+    font-size: 35px;
+    margin-bottom: 20px;
 }
