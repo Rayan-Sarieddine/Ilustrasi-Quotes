@@ -18,7 +18,9 @@ h1{
     margin:0 auto;
 }
 .heading{
-    background-color: #bb96cf;
+    background-image: linear-gradient(rgba(187, 150, 207, 0.637),rgba(187, 150, 207, 0.637)),url(Assets/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     padding: 50px 0;
     width: 100%;
 }
